@@ -1,4 +1,4 @@
-test txt , temp333
+test txt , temp3333
 cd dir 1;
 cd dir 2;
 cd dir 3;
