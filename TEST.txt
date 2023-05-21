@@ -1,4 +1,4 @@
-test txt , temp33334ede
+test txt , temp33334edeq
 cd dir 1;
 cd dir 2;
 cd dir 3;
