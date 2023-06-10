@@ -1,4 +1,4 @@
-test txt , temp33334edeqrrdd33e444777rrd4444ثغ
+test txt , temp33334edeqrrdd33e444777rrd44443ثغ
 cd dir 1;y4
 cd dir 2;
 cd dir 3;
