@@ -1,5 +1,5 @@
 etest txt , temp33334edeqrrdd33e444777rrd444433yttrxxxثغ
-cd dir 1;y4yttt
+cd dir 1;y4ytttx
 cd dir 2;
 cd dir 3;
 make KIA code in portfolio
